@@ -4,17 +4,23 @@ path: /about
 url: index.html
 image: http://unsplash.it/400?random
 ---
+## What I am up to at the moment
 
-## Overview
-Lorem ipsum dolor sit amet, purto tota in vel, exerci discere apeirian has in. Nec noster iracundia eu, utroque facilis ad has. Alii argumentum no his, omnis iusto scripta vim in, ipsum ridens mel at. Has homero phaedrum no, ea autem affert facilis usu, has possim meliore perpetua id. Errem iisque mea ex, option ocurreret no est. Sea facer ullamcorper ne, cu dictas discere repudiandae sea.
+I am currently enrolled in a Master of Science in Robotics program at Northwestern University. This quarter I am taking courses in; Embedded Systems; Robotic Manipulation; Machine Dynamics; and Computational Geometry. 
 
-His nemore audiam consequat ad, no augue choro assueverit mei. Zril offendit tincidunt ne quo. At commodo integre alienum sea, cu vocent fuisset suscipit nam. Eum ex tation omnesque adversarium, mutat autem putant te nam. Id vix facilis complectitur, vis vitae vivendo euripidis ea, fugit eirmod an vix.
+## Education and Training
 
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
+In January 2011, directly after matriculating from high school, I started studying at the University of Cape Town. I enrolled to do a BSc (Eng) in Mechatronics Engineering and I graduated in December 2014. During my studies, I attended a practical training course at the Cape Peninsula University of Technology. There I learnt a few practical engineering trades including: to arc weld; to use a lathe machine; design automation with pneumatics; applied metrology; CNC machining; heat tempering and hardening; and Computer Aided Drafting.
 
-Mel magna discere in. Mea ea dicit homero perfecto. Eam nulla facete scribentur in. Vide volutpat laboramus est cu, usu cu impetus dignissim. Ex pro decore impetus. Ius nihil iisque deterruisset an, ex sanctus verterem his. Doming prompta insolens est ut.
+In November 2013, I did a two month internship in the Bioelectronics and Neuroscience (BENS) Research Program at the University of Western Sydney. The projects that I was involved in were:
 
-### Research interests
-* Interest 1
-* Interest 2
-* Interest 3
+*Design and construction of a robotic system for stimulation and feedback control of the human peripheral sensory system (tactile sensing)
+*Design and construction of hardware for a ping-pong playing robot
+
+While I was there I also attended a seminar on the use of an Arduino for network communications.
+
+## Languages
+
+English – Native language
+Afrikaans – Professional proficiency
+Hebrew – Professional proficiency
