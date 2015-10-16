@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image: http://unsplash.it/400?random
+image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/contact.jpg
 ---
 
 ## Contact me directly:
