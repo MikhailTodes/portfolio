@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/contact.jpg
+image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/contact.jpg?raw=true
 ---
 
 ## Contact me directly:
