@@ -13,7 +13,6 @@ image: http://unsplash.it/400?random
 ## Address: 
 
 * McCormick School of Engineering,
-
   Technological Institute,
   2145 Sheridan Road,
   Evanston, IL
