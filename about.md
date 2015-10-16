@@ -14,13 +14,13 @@ In January 2011, directly after matriculating from high school, I started studyi
 
 In November 2013, I did a two month internship in the Bioelectronics and Neuroscience (BENS) Research Program at the University of Western Sydney. The projects that I was involved in were:
 
-*Design and construction of a robotic system for stimulation and feedback control of the human peripheral sensory system (tactile sensing)
-*Design and construction of hardware for a ping-pong playing robot
+* Design and construction of a robotic system for stimulation and feedback control of the human peripheral sensory system (tactile sensing)
+* Design and construction of hardware for a ping-pong playing robot
 
 While I was there I also attended a seminar on the use of an Arduino for network communications.
 
 ## Languages
 
-English – Native language
-Afrikaans – Professional proficiency
+English – Native language \n
+Afrikaans – Professional proficiency \n
 Hebrew – Professional proficiency

@@ -12,9 +12,9 @@ image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/con
 
 ## Address: 
 
-* McCormick School of Engineering,
-  Technological Institute,
-  2145 Sheridan Road,
-  Evanston, IL
+* McCormick School of Engineering, \n
+  Technological Institute,\n
+  2145 Sheridan Road, \n
+  Evanston, IL \n
   60208
 
