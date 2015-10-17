@@ -21,6 +21,6 @@ While I was there I also attended a seminar on the use of an Arduino for network
 
 ## Languages
 
-* English – Native language
-* Afrikaans – Professional proficiency
-* Hebrew – Professional proficiency
+* English (Native language)
+* Afrikaans
+* Hebrew
