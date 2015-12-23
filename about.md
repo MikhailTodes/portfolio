@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: http://unsplash.it/400?random
+image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/about_pic.jpg?raw=true
 ---
 ## What I am up to at the moment
 
