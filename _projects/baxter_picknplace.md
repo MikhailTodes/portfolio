@@ -21,4 +21,4 @@ As part
 <a href="https://www.youtube.com/watch?v=Uo60e5Leo50" target="_blank">New Tab</a>
 
 ##Breaker
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=Uo60e5Leo50" frameborder="0" allowfullscreen></iframe>
+{% youtube https://www.youtube.com/watch?v=Uo60e5Leo50 %}
