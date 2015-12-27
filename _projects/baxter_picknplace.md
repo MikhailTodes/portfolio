@@ -12,9 +12,9 @@ As a final project for the Embedded Systems course I took, we were required to u
 
 The basic project was to pick up 6 objects and place them in a box on the side. Extra marks were given for the following:
 
-  -Picking up different shaped objects
-  -Picking up different coloured objects
-  -The speed at which Baxter could succesfully pick and place 6 items.
+* Picking up different shaped objects
+* Picking up different coloured objects
+* The speed at which Baxter could succesfully pick and place 6 items.
 
 
 
