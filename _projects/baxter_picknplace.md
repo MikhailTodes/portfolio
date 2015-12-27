@@ -17,5 +17,5 @@ As part
 
 ####Video
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Uo60e5Leo50/0.jpg)](https://www.youtube.com/watch?v=Uo60e5Leo50)
+[Video of End Product](https://www.youtube.com/watch?v=Uo60e5Leo50)
 
