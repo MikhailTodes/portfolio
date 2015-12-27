@@ -15,6 +15,15 @@ The basic project was to pick up 6 objects and place them in a box on the side. 
 * The speed at which Baxter could succesfully pick and place 6 items.
 
 
+####Interface characteristics
+
+* The robot must be self-supporting on a simple wooden frame.
+* The robot must be able to support a pen or pencil.
+* The workspace is 10 cm by 10 cm.
+* A suitable user interface is required. This must include an over-ride to completely stop
+all robot motion.
+* A serial interface to a PC may be used.
+
 
 [//]: # ([Video of End Product](https://www.youtube.com/watch?v=Uo60e5Leo50))
 [//]: # (<a href="https://www.youtube.com/watch?v=Uo60e5Leo50" target="_blank">New Tab</a>)
