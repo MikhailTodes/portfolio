@@ -18,4 +18,5 @@ As part
 ####Video
 
 [Video of End Product](https://www.youtube.com/watch?v=Uo60e5Leo50)
+<a href="https://www.youtube.com/watch?v=Uo60e5Leo50" target="_blank">New Tab</a>
 
