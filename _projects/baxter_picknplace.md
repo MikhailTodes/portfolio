@@ -6,21 +6,20 @@ image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/bax
 ---
 
 ## Overview
-As part 
+As a final project for the Embedded Systems course I took, we were required to use Rethink Robotics' Baxter for a pick and place application.
 
-### Specifications
+##Additional Components
+The basic project was to pick up 6 objects and place them in a box on the side. Extra marks were given for the following:
+ * Picking up different shaped objects
+ * Picking up different coloured objects
+ * The speed at which Baxter could succesfully pick and place 6 items.
 
-####Interface characteristics
 
-
-####Functional characteristics
-
-####Video
 
 [//]: # ([Video of End Product](https://www.youtube.com/watch?v=Uo60e5Leo50))
-<a href="https://www.youtube.com/watch?v=Uo60e5Leo50" target="_blank">New Tab</a>
+[//]: # (<a href="https://www.youtube.com/watch?v=Uo60e5Leo50" target="_blank">New Tab</a>)
 
-##Bre
+##Video
 <p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Uo60e5Leo50" frameborder="0" allowfullscreen></iframe>
 </p>
