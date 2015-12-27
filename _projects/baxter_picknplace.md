@@ -20,6 +20,4 @@ The basic project was to pick up 6 objects and place them in a box on the side. 
 [//]: # (<a href="https://www.youtube.com/watch?v=Uo60e5Leo50" target="_blank">New Tab</a>)
 
 ##Video
-<p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Uo60e5Leo50" frameborder="0" allowfullscreen></iframe>
-</p>
