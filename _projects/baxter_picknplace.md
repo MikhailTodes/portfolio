@@ -2,8 +2,9 @@
 layout: project
 title: Baxter Pick and Place
 date: December, 2015
-image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/giphy.gif?raw=true
+image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/baxter_final_pose.png?raw=true
 ---
+![Alt text](/public/images/giphy.gif?raw=true "Title")
 
 ## Overview
 As a final project for the Embedded Systems course I took, we were required to use Rethink Robotics' Baxter for a pick and place application.
