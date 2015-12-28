@@ -16,16 +16,5 @@ The basic project was to pick up 6 objects and place them in a box on the side. 
 * Picking up different coloured objects
 * The speed at which Baxter could succesfully pick and place 6 items.
 
-
-
-
-<l>
-<li> Locating a block with tags using ar_track_alvar</li>
-<li> Moving to above the block position using a joint trajectory</li>
-<li> Adjusting the height using a Cartesian trajectory</li>
-<li> Grabbing the block and dropping it in a specified position</li>
-</l>
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Uo60e5Leo50" frameborder="0" allowfullscreen></iframe>
-</p>
+##Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uo60e5Leo50" frameborder="0" allowfullscreen></iframe>
