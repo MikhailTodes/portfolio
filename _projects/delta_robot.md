@@ -25,3 +25,6 @@ all robot motion.
 * The robot shall be able to draw a square, circle and equilateral triangle with user
 specified dimensions.
 * The robot capabilities may be demonstrated in any creative way for bonus marks.
+
+##Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vyQ6BPVSoMs" frameborder="0" allowfullscreen></iframe>
