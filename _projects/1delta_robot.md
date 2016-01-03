@@ -8,10 +8,10 @@ image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/del
 ## Overview
 During my undergraduate, we were tasked with building a delta robot that could draw a circle, triangle, or square depending on the users preference. 
 
-### Specifications
+## Specifications
 The following were the specifications we had to follow:
 
-####Interface characteristics
+##Interface characteristics
 
 * The robot must be self-supporting on a simple wooden frame.
 * The robot must be able to support a pen or pencil.
@@ -20,7 +20,7 @@ The following were the specifications we had to follow:
 all robot motion.
 * A serial interface to a PC may be used.
 
-####Functional characteristics
+##Functional characteristics
 
 * The robot shall be able to draw a square, circle and equilateral triangle with user
 specified dimensions.
