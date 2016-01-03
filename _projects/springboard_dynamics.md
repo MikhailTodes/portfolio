@@ -11,7 +11,7 @@ image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/spr
 ## Specifications
 
 ##Code
-This was modeled using Wolfram's Mathematica software. The code can be found <a href="springboard_code.pdf" target="_blank">here</a>.
+This was modeled using Wolfram's Mathematica software. The code can be found <a href="/public/pdfs/springboard_code.pdf" target="_blank">here</a>.
 
 ##Video
 <iframe width="420" height="315" src="https://www.youtube.com/embed/MVjevcx9t08" frameborder="0" allowfullscreen></iframe>
