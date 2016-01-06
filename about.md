@@ -27,6 +27,7 @@ In November 2013, I did a two month internship in the Bioelectronics and Neurosc
 
 While I was there I also attended a seminar on the use of an Arduino for network communications.
 
+Experience with Windows and Linux operating systems as well as ROS (Robot Operating System).
 
 ##Programming Languages 
 * C

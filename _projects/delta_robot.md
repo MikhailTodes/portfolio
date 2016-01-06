@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Delta Robot
+title: Drawing Delta Robot
 date: August, 2013
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/deltarobot.png?raw=true
 ---
