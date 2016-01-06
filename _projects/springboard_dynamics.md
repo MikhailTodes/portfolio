@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Springboard Dynamics
+title: Springboard Dynamics (under construction)
 date: November, 2015
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/springboard_setup.png?raw=true
 ---
