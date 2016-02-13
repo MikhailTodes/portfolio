@@ -30,7 +30,7 @@ While I was there I also attended a seminar on the use of an Arduino for network
 Experience with Windows and Linux operating systems as well as ROS (Robot Operating System).
 
 
-##Programming Languages 
+## Programming Languages 
 
 * C
 * C++
@@ -39,7 +39,7 @@ Experience with Windows and Linux operating systems as well as ROS (Robot Operat
 * Matlab
 * Mathematica
 
-##Other Interests and Skills
+## Other Interests and Skills
 
 Other than Engineering I like to spend my time outdoors. When I get the chance I enjoy surfing, hiking, mountain biking, and a new found fondness of snow boarding. I have a skippers license as well a scuba diving license. Other sports I enjoy to play and watch include: Football, Cricket, Rugby, and Cycling. I have participated and completed the Cape Town Cycle Race on seven occasions as well as numerous other races. I have also summited Mount Kilimanjaro.
 
