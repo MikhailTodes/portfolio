@@ -11,20 +11,20 @@ During my undergraduate, we were tasked with building a delta robot that could d
 ## Specifications
 The following were the specifications we had to follow:
 
-###Interface characteristics
+* Interface characteristics
 
-* The robot must be self-supporting on a simple wooden frame.
-* The robot must be able to support a pen or pencil.
-* The workspace is 10 cm by 10 cm.
-* A suitable user interface is required. This must include an over-ride to completely stop
+ * The robot must be self-supporting on a simple wooden frame.
+ * The robot must be able to support a pen or pencil.
+ * The workspace is 10 cm by 10 cm.
+ * A suitable user interface is required. This must include an over-ride to completely stop
 all robot motion.
-* A serial interface to a PC may be used.
+ * A serial interface to a PC may be used.
 
-###Functional characteristics
+* Functional characteristics
 
-* The robot shall be able to draw a square, circle and equilateral triangle with user
+ * The robot shall be able to draw a square, circle and equilateral triangle with user
 specified dimensions.
-* The robot capabilities may be demonstrated in any creative way for bonus marks.
+ * The robot capabilities may be demonstrated in any creative way for bonus marks.
 
-##Video
+## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vyQ6BPVSoMs" frameborder="0" allowfullscreen></iframe>
