@@ -29,7 +29,9 @@ While I was there I also attended a seminar on the use of an Arduino for network
 
 Experience with Windows and Linux operating systems as well as ROS (Robot Operating System).
 
+
 ##Programming Languages 
+
 * C
 * C++
 * Java
