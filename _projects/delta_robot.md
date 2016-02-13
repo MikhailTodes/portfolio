@@ -4,7 +4,6 @@ title: Drawing Delta Robot
 date: August, 2013
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/deltarobot.png?raw=true
 ---
-<h2 id="project-date">{{August, 2013}}</h2>
 ## Overview
 During my undergraduate, we were tasked with building a delta robot that could draw a circle, triangle, or square depending on the users preference. 
 
