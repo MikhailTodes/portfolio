@@ -1,7 +1,7 @@
 ---
 layout: project
 title: MYHOG Racer (coming soon)
-date: November, 2015
+date: Feb, 2016
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/q.jpg?raw=true
 ---
 
