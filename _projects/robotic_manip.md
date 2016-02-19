@@ -11,3 +11,6 @@ A library of function written in Python for the purpose of manipulting robots. T
 ## Code
 
 ## Videos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ycaGRk_0AE8" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/fVElSuS1GgI" frameborder="0" allowfullscreen></iframe>
