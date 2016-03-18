@@ -36,7 +36,7 @@ Experience with Windows and Linux operating systems as well as ROS (Robot Operat
 * C++
 * Java
 * Python
-* Matlab
+* MATLAB
 * Mathematica
 
 ## Other Interests and Skills
