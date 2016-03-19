@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MYHOG Racer (coming soon)
+title: MYHOG Racer
 date: Feb, 2016
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/myhog_mak1.jpg?raw=true
 ---
@@ -50,7 +50,7 @@ The <a href="https://www.myo.com/" target="_blank">Myo</a> is an armband worn ju
 ### Communications
 The Myo communicates using a Bluetooth protocol and a USB plug and play adapter that I had plugged into my laptop.
 
-The micro-controller I used is the PIC32MX795F512H. The PIC32 is using a <a href="https://www.nu32.org" target="_blank">NU32</a> development board designed at Northwestern University. 
+The micro-controller I used is the PIC32MX795F512H. The PIC32 is using a <a href="http://hades.mech.northwestern.edu/index.php/NU32" target="_blank">NU32</a> development board designed at Northwestern University. 
 
 I serially sent the commands from my laptop to the PIC32, using a couple of Xbee modules with self assembled <a href="https://www.adafruit.com/products/126?gclid=CNOJ4evuzcsCFdcRgQodoKwLug" target="_blank">break-out boards</a> from Adafruit. 
 
