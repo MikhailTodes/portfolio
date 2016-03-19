@@ -57,6 +57,7 @@ I serially sent the commands from my laptop to the PIC32, using a couple of Xbee
 Both the NU32 and the Xbee were left plugged into a breadboard for ease of development. Further models of the MYHOG would include its own dedicated circuitry. 
 
 ### Power
+The NU32 and Xbee module are running off a 5V regulated supply from a 9V Duracell battery situated just infront of the breadboard. The two servos run off a different 5V regulated supply from a 12V LiFePO4 battery pack with a capacity of 1500 mAh. It is capable of safely supplying 4A. The brushless DC motor also runs off this supply, but with an unregulated voltage. For convenience I have two of these battery packs so that one can charge while the other is being used. They have a 5.5x2.1mm male barrel connector which make them easy to swap in and out of the MYHOG which has a female connector right next to the battery case at the top of the frame. (Further models of the MYHOG might see that casing moved a bit lower for better weight distribution and more stability.)
 
 # The Software
 
