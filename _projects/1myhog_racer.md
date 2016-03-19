@@ -28,7 +28,7 @@ The gimbal attaches right between the two poles of the upright piece that houses
 
 [comment]: <> (pic of gimbal design)
 
-The gimbal is made up of two 3D printed pieces. (Solid Works files found <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/Model" target="_blank">here</a>). The inner piece has the motor attached and rotates about the roll axis in the MYHOG's forward direction. This allows for forward or backwards drive. It is driven by the bottom servo. The outer piece rotates about a pitch axis in the MYHOG's forward direction, allowing the MYHOG to steer left or right. It is driven by the top servo. At the moment the servos are connected to the gimbal pieces using small wooden rods. Each rod has a hole in both ends to enable a threaded wire to attach and still allow enough flexibility for rotation. With testing I have found this allows too much play and thus instability. Different materials will be tried in further models. 
+The gimbal is made up of two 3D printed pieces. (Solid Works files found <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/Model" target="_blank">here</a>). The inner piece has the motor attached and rotates about a longitudinal axis (roll) in the MYHOG's forward direction. This allows for forward or backwards drive. It is driven by the bottom servo. The outer piece rotates about a lateral axis (pitch) in the MYHOG's forward direction, allowing the MYHOG to steer left or right. It is driven by the top servo. At the moment the servos are connected to the gimbal pieces using small wooden rods. Each rod has a hole in both ends to enable a threaded wire to attach and still allow enough flexibility for rotation. With testing I have found this allows too much play and thus instability. Different materials will be tried in further models. 
 
 ### Motor Connection and Hemisphere
 The hemisphere is a racquet-ball ball with the top cut off. I 3D printed the piece below to attach to the motor and fit inside the racquet-ball ball. 
@@ -39,13 +39,17 @@ I then filled the hemisphere with glue from a glue gun. Allowing the glue to coo
 
 # Electronics
 
-### Motor
+### Motors
+For the drive motor I used was a brushless DC motor built by XXD called the A2212 KV1400. It weighs 47g , draws a no-load current of half an amp, and has a KV rating of 1400. I connected it up to a HW30A ESC for control. 
 
-### Servos
+The two servo motors are <a href="/portfolio/public/pdfs/hs755hb.pdf" target="_blank">HI_TEC's HS_755HB</a> with a weight of 110 grams and a torque rating of 13.2 Kg-cm. These are more than powerful enough to provide the required torque to turn the MYHOG's gimbal.
 
 ### MYO 
+The <a href="https://www.myo.com/" target="_blank">Myo</a> is an armband worn just below the elbow of the driver. It uses a combination of EMG, IMU, and accelerometer signals to achieve machine trained gesture recognition.  
 
 ### Communications
+
+### Power
 
 # The Software
 
@@ -54,5 +58,3 @@ I then filled the hemisphere with glue from a glue gun. Allowing the glue to coo
 Myo/Joy node
 
 ### PIC32 C Code
-
-[comment]: <> (Because the drive force is a hemisphere, the more it is tilted, the greater the radius between the point of contact with the ground and the central axis of rotation. As a result speed can be easily controlled.)
