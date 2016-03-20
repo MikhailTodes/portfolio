@@ -84,9 +84,16 @@ The NU32 and Xbee module are running off a 5V regulated supply from a 9V Duracel
 
 ### Myhog Ros Workspace
 
-For receiving data from the Myo, I use a ROS package called <a href="https://github.com/roboTJ101/ros_myo" target="_blank">ros_myo</a>. From this package, the raw data from the Myo is published under three topics: myo_imu, myo_emg, and myo_gest. The myo_emg topic publishes a custom message containing the signal readings from the Myo's eight EMG sensors. For use with the MYHOG, I subscribed to the myo_imu and myo_gest topics which publish standard IMU and standard UInt8 messages respectively. In my subscription <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/myhog_ws/src/myhog_control/src" target="_blank">node</a>, I convert the IMU quaternion to Euler angles and then use the to determine an appropriate PWM duty cycle to send serially through the Xbee to the PIC32. This controls the servos. I also send an on or off PWM duty cycle to start or stop the drive motor based on the trained fist gesture. 
+For receiving data from the Myo, I use a ROS package called <a href="https://github.com/roboTJ101/ros_myo" target="_blank">ros_myo</a>. From this package, the raw data from the Myo is published under three topics: myo_imu, myo_emg, and myo_gest. The myo_emg topic publishes a custom message containing the signal readings from the Myo's eight EMG sensors. For use with the MYHOG, I subscribed to the myo_imu and myo_gest topics which publish standard IMU and standard UInt8 messages respectively. In my subscription <a href="https://github.com/MikhailTodes/myhog_racer/blob/master/myhog_ws/src/myhog_control/src/myo.py" target="_blank">node</a>, I convert the IMU quaternion to Euler angles and then use the to determine an appropriate PWM duty cycle to send serially through the Xbee to the PIC32. This controls the servos. I also send an on or off PWM duty cycle to start or stop the drive motor based on the trained fist gesture. 
 
 For ease of use when testing and potentially playing with the MYHOG, a node that subscribes to a joystick will be written. 
 
 ### PIC32 C Code
 The code used to program the PIC32 can be found <a href="https://github.com/MikhailTodes/myhog_racer/blob/master/xbee/xbee.c" target="_blank">here</a>. I chose to use Timer 3 on the PIC32 out of the 5 that it has available and set it to run at a frequency of 50Hz (For use with all three motors). The PIC32 has available output compare pins of which I chose to use OC1, OC2, and OC3 for those familiar with the PIC32's structure. The servos output angles are varied using a pulse between 1ms – 2ms. The drive motor controlled through the esc is turned off at 0.72ms and turned on with a pulse width of 1.24ms.
+
+# Testing Videos
+
+<div class="container"  align="middle">
+  <iframe class="one" width="420" height="315" src="https://www.youtube.com/embed/PbSFe_kLPTM" frameborder="0" allowfullscreen></iframe>
+  <iframe class="two" width="420" height="315" src="https://www.youtube.com/embed/A2-2wv5Wn4o" frameborder="0" allowfullscreen></iframe>  
+</div>
