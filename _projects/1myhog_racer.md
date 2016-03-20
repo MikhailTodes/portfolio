@@ -25,7 +25,9 @@ The base of the frame and the upright housing the servos, are each 3 pieces of  
 
 At the other end of the frame, I originally attached two caster wheels for support. Since the first iteration I have changed to using ball bearing wheels instead. This allows for better omni-directionality. I have also spread the wheels a bit further out from the centre to help support the frame a bit more. 
 
-<img style='text-align: center; height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/built_frame.jpg?raw=true" align="middle">
+<div class="container"  align="middle">
+    <img class="one" style='text-align: center; height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/built_frame.jpg?raw=true" align="middle">
+</div>
 
 
 ### The Gimbal
@@ -41,7 +43,9 @@ The gimbal is made up of two 3D printed pieces. (Solid Works files found <a href
 ### Motor Connection and Hemisphere
 The hemisphere is a racquet-ball ball with the top cut off. I 3D printed the piece below to attach to the motor on the one end and fit inside the racquet-ball ball on the other. 
 
-<img style='text-align: center; height: 30%; width: 30%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/motor_con.png?raw=true" align="middle">
+<div class="container"  align="middle">
+    <img class="one" style='text-align: center; height: 30%; width: 30%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/motor_con.png?raw=true" align="middle">
+</div>
 
 I then filled the hemisphere with glue from a glue gun. Allowing the glue to cool down and harden secured the motor connection piece in place and solidified the hemisphere.
 
@@ -71,6 +75,10 @@ Both the NU32 and the Xbee were left plugged into a breadboard for ease of devel
 
 ### Power
 The NU32 and Xbee module are running off a 5V regulated supply from a 9V Duracell battery situated just infront of the breadboard. The two servos run off a different 5V regulated supply from a 12V LiFePO4 battery pack with a capacity of 1500 mAh. It is capable of safely supplying 4A. The brushless DC motor also runs off this supply, but with an unregulated voltage. For convenience I have two of these battery packs so that one can charge while the other is being used. They have a 5.5x2.1mm male barrel connector which make them easy to swap in and out of the MYHOG which has a female connector right next to the battery case at the top of the frame. (Further models of the MYHOG might see that casing moved a bit lower for better weight distribution and more stability.)
+
+<div class="container"  align="middle">
+     <img class="two" style='text-align: center; height: 35%; width: 35%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/built_with_elec.jpg?raw=true">
+</div>
 
 # The Software
 
