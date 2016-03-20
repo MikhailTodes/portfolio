@@ -15,6 +15,11 @@ MYHOG racer stands for Myo Controlled Hemispherical Omni-directional Gimballed R
 ### The Frame
 The frame is made out of 1/8 inch thick plywood. I used a laser cutter to carve out the design. This made it easy and quick to re-cut any pieces that were needed. 
 
+
+<div class="container">
+    <img class="one" alt src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame.png?raw=true">
+    <img class="two" alt src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame.png?raw=true">
+</div>
 [comment]: <> (pic of frame design)
 
 The base of the frame and the upright housing the servos, are each 3 pieces of  plywood stuck together with wood-glue and screws. The two supporting pieces (one upright with “MYHOG” carved on it and the joining top piece) are both two pieces of plywood thick. I created the design for these pieces using the free online software, “OnShape”. The Solid Works files for each part can be found <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/Model" target="_blank">here</a>. The different pieces of the frame are designed to fit in firmly with each other. 
