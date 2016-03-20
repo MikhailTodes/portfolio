@@ -25,7 +25,7 @@ The base of the frame and the upright housing the servos, are each 3 pieces of  
 
 At the other end of the frame, I originally attached two caster wheels for support. Since the first iteration I have changed to using ball bearing wheels instead. This allows for better omni-directionality. I have also spread the wheels a bit further out from the centre to help support the frame a bit more. 
 
-<img style='text-align: center; height: 50%; width: 50%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/built_frame.jpg?raw=true" align="middle">
+<img style='text-align: center; height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/built_frame.jpg?raw=true" align="middle">
 
 
 ### The Gimbal
@@ -41,7 +41,7 @@ The gimbal is made up of two 3D printed pieces. (Solid Works files found <a href
 ### Motor Connection and Hemisphere
 The hemisphere is a racquet-ball ball with the top cut off. I 3D printed the piece below to attach to the motor on the one end and fit inside the racquet-ball ball on the other. 
 
-[comment]: <> (pic of motor connection piece)
+<img style='text-align: center; height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/motor_con.png?raw=true" align="middle">
 
 I then filled the hemisphere with glue from a glue gun. Allowing the glue to cool down and harden secured the motor connection piece in place and solidified the hemisphere.
 
