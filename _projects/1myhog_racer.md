@@ -47,7 +47,7 @@ The hemisphere is a racquet-ball ball with the top cut off. I 3D printed the pie
     <img class="one" style='text-align: center; height: 30%; width: 30%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/motor_con.png?raw=true" align="middle">
 </div>
 
-I then filled the hemisphere with glue from a glue gun. Allowing the glue to cool down and harden secured the motor connection piece in place and solidified the hemisphere.
+I then filled the hemisphere with glue from a glue gun. Allowing the glue to cool down and harden, secured the motor connection piece in place and solidified the hemisphere.
 
 <div class="container"  align="middle">
     <img class="one" style='text-align: center; height: 22%; width: 22%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/built_gimbal.png?raw=true">
