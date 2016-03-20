@@ -25,13 +25,16 @@ The base of the frame and the upright housing the servos, are each 3 pieces of  
 
 At the other end of the frame, I originally attached two caster wheels for support. Since the first iteration I have changed to using ball bearing wheels instead. This allows for better omni-directionality. I have also spread the wheels a bit further out from the centre to help support the frame a bit more. 
 
-<img class="two" style='height: 50%; width: 50%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/built_frame.jpg?raw=true" align="middle">
+<img style='height: 50%; width: 50%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/built_frame.jpg?raw=true" align="middle">
 
 
 ### The Gimbal
 The gimbal attaches right between the two poles of the upright piece that houses the sevos. 
 
-[comment]: <> (pic of gimbal design)
+<div class="container"  align="middle">
+    <img class="one" style='height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/gimbal_design1.png?raw=true">
+    <img class="two" style='height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/gimbal_design2.png?raw=true">
+</div>
 
 The gimbal is made up of two 3D printed pieces. (Solid Works files found <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/Model" target="_blank">here</a>). The inner piece has the motor attached and rotates about a longitudinal axis (roll) in the MYHOG's forward direction. This allows for forward or backwards drive. It is driven by the bottom servo. The outer piece rotates about a lateral axis (pitch) in the MYHOG's forward direction, allowing the MYHOG to steer left or right. It is driven by the top servo. At the moment the servos are connected to the gimbal pieces using small wooden rods. Each rod has a hole in both ends to enable a threaded wire to attach and still allow enough flexibility for rotation. With testing I have found this allows too much play and thus instability. Different materials will be tried in further models. 
 
