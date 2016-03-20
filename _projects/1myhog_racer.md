@@ -41,9 +41,14 @@ The gimbal is made up of two 3D printed pieces. (Solid Works files found <a href
 ### Motor Connection and Hemisphere
 The hemisphere is a racquet-ball ball with the top cut off. I 3D printed the piece below to attach to the motor on the one end and fit inside the racquet-ball ball on the other. 
 
-<img style='text-align: center; height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/motor_con.png?raw=true" align="middle">
+<img style='text-align: center; height: 30%; width: 30%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/motor_con.png?raw=true" align="middle">
 
 I then filled the hemisphere with glue from a glue gun. Allowing the glue to cool down and harden secured the motor connection piece in place and solidified the hemisphere.
+
+<div class="container"  align="middle">
+    <img class="one" style='text-align: center; height: 35%; width: 35%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/built_gimbal.png?raw=true">
+    <img class="two" style='text-align: center; height: 35%; width: 35%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/built_no_electrnoics.png?raw=true">
+</div>
 
 # Electronics
 
