@@ -17,8 +17,8 @@ The frame is made out of 1/8 inch thick plywood. I used a laser cutter to carve 
 
 
 <div class="container">
-    <img class="one" alt src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame.png?raw=true">
-    <img class="two" alt src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame.png?raw=true">
+    <img class="one" style='height: 60%; width: 60%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame.png?raw=true">
+    <img class="two" style='height: 60%; width: 60%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame2.png?raw=true">
 </div>
 [comment]: <> (pic of frame design)
 
