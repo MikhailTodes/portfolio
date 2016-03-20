@@ -20,13 +20,13 @@ The frame is made out of 1/8 inch thick plywood. I used a laser cutter to carve 
     <img class="one" style='height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame.png?raw=true">
     <img class="two" style='height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame2.png?raw=true">
 </div>
-[comment]: <> (pic of frame design)
 
 The base of the frame and the upright housing the servos, are each 3 pieces of  plywood stuck together with wood-glue and screws. The two supporting pieces (one upright with “MYHOG” carved on it and the joining top piece) are both two pieces of plywood thick. I created the design for these pieces using the free online software, “OnShape”. The Solid Works files for each part can be found <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/Model" target="_blank">here</a>. The different pieces of the frame are designed to fit in firmly with each other. 
 
 At the other end of the frame, I originally attached two caster wheels for support. Since the first iteration I have changed to using ball bearing wheels instead. This allows for better omni-directionality. I have also spread the wheels a bit further out from the centre to help support the frame a bit more. 
 
-[comment]: <> (pic of frame built)
+<img class="two" style='height: 50%; width: 50%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame2.png?raw=true" align="middle">
+
 
 ### The Gimbal
 The gimbal attaches right between the two poles of the upright piece that houses the sevos. 
