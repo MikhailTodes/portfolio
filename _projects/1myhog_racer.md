@@ -16,9 +16,9 @@ MYHOG racer stands for Myo Controlled Hemispherical Omni-directional Gimballed R
 The frame is made out of 1/8 inch thick plywood. I used a laser cutter to carve out the design. This made it easy and quick to re-cut any pieces that were needed. 
 
 
-<div class="container">
-    <img class="one" style='height: 30%; width: 30%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame.png?raw=true" align="middle">
-    <img class="two" style='height: 30%; width: 30%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame2.png?raw=true" align="middle">
+<div class="container"  align="middle">
+    <img class="one" style='height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame.png?raw=true">
+    <img class="two" style='height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame2.png?raw=true">
 </div>
 [comment]: <> (pic of frame design)
 
