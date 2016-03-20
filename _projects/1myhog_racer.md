@@ -31,7 +31,7 @@ At the other end of the frame, I originally attached two caster wheels for suppo
 
 
 ### The Gimbal
-The gimbal attaches right between the two poles of the upright piece that houses the sevos. 
+The gimbal attaches right between the two poles of the upright piece that houses the servos. 
 
 <div class="container"  align="middle">
     <img class="one" style='text-align: center; height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/gimbal_design1.png?raw=true">
@@ -84,7 +84,7 @@ The NU32 and Xbee module are running off a 5V regulated supply from a 9V Duracel
 
 ### Myhog Ros Workspace
 
-For receiving data from the Myo, I use a ROS package called <a href="https://github.com/roboTJ101/ros_myo" target="_blank">ros_myo</a>. From this package, the raw data from the Myo is published under three topics: myo_imu, myo_emg, and myo_gest. The myo_emg topic publishes a custom message containing the signal readings from the Myo's eight EMG sensors. For use with the MYHOG, I subscribed to the myo_imu and myo_gest topics which publish standard IMU and standard UInt8 messages respectively. In my subscription <a href="https://github.com/MikhailTodes/myhog_racer/blob/master/myhog_ws/src/myhog_control/src/myo.py" target="_blank">node</a>, I convert the IMU quaternion to Euler angles and then use the to determine an appropriate PWM duty cycle to send serially through the Xbee to the PIC32. This controls the servos. I also send an on or off PWM duty cycle to start or stop the drive motor based on the trained fist gesture. 
+For receiving data from the Myo, I use a ROS package called <a href="https://github.com/roboTJ101/ros_myo" target="_blank">ros_myo</a>. From this package, the raw data from the Myo is published under three topics: myo_imu, myo_emg, and myo_gest. The myo_emg topic publishes a custom message containing the signal readings from the Myo's eight EMG sensors. For use with the MYHOG, I subscribed to the myo_imu and myo_gest topics which publish standard IMU and standard UInt8 messages respectively. In my subscription <a href="https://github.com/MikhailTodes/myhog_racer/blob/master/myhog_ws/src/myhog_control/src/myo.py" target="_blank">node</a>, I convert the IMU quaternion to Euler angles and then use these to determine an appropriate PWM duty cycle to send serially through the Xbee to the PIC32. This controls the servos. I also send an on or off PWM duty cycle to start or stop the drive motor based on the trained "fist" gesture. 
 
 For ease of use when testing and potentially playing with the MYHOG, a node that subscribes to a joystick will be written. 
 
