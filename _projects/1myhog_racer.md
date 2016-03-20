@@ -31,7 +31,7 @@ The gimbal attaches right between the two poles of the upright piece that houses
 The gimbal is made up of two 3D printed pieces. (Solid Works files found <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/Model" target="_blank">here</a>). The inner piece has the motor attached and rotates about a longitudinal axis (roll) in the MYHOG's forward direction. This allows for forward or backwards drive. It is driven by the bottom servo. The outer piece rotates about a lateral axis (pitch) in the MYHOG's forward direction, allowing the MYHOG to steer left or right. It is driven by the top servo. At the moment the servos are connected to the gimbal pieces using small wooden rods. Each rod has a hole in both ends to enable a threaded wire to attach and still allow enough flexibility for rotation. With testing I have found this allows too much play and thus instability. Different materials will be tried in further models. 
 
 ### Motor Connection and Hemisphere
-The hemisphere is a racquet-ball ball with the top cut off. I 3D printed the piece below to attach to the motor and fit inside the racquet-ball ball. 
+The hemisphere is a racquet-ball ball with the top cut off. I 3D printed the piece below to attach to the motor on the one end and fit inside the racquet-ball ball on the other. 
 
 [comment]: <> (pic of motor connection piece)
 
@@ -40,7 +40,7 @@ I then filled the hemisphere with glue from a glue gun. Allowing the glue to coo
 # Electronics
 
 ### Motors
-For the drive motor I used was a brushless DC motor built by XXD called the A2212 KV1400. It weighs 47g , draws a no-load current of half an amp, and has a KV rating of 1400. I connected it up to a HW30A ESC for control. 
+For the drive motor I used a brushless DC motor built by XXD called the A2212 KV1400. It weighs 47g , draws a no-load current of half an amp, and has a KV rating of 1400. I connected it up to a HW30A ESC for control. 
 
 The two servo motors are <a href="/portfolio/public/pdfs/hs755hb.pdf" target="_blank">HI_TEC's HS_755HB</a> with a weight of 110 grams and a torque rating of 13.2 Kg-cm. These are more than powerful enough to provide the required torque to turn the MYHOG's gimbal.
 
@@ -63,7 +63,7 @@ The NU32 and Xbee module are running off a 5V regulated supply from a 9V Duracel
 
 ### Myhog Ros Workspace
 
-For receiving data from the Myo, I use a ROS package called <a href="https://github.com/roboTJ101/ros_myo" target="_blank">ros_myo</a>. From this package, the raw data from the Myo is published under three topics: myo_imu, myo_emg, and myo_gest. The myo_emg topic publishes a custom message containing the signal readings from the Myo's eight EMG sensors. For use with the MYHOG, I subscribed to the myo_imu and myo_gest topics which publish standard IMU and standard UInt8 messages respectively. In my subscription <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/myhog_ws/src/myhog_control/src" target="_blank">node</a>, I convert the IMU quaternion to Euler angles and then use tha to determine an appropriate PWM duty cycle to send serially through the Xbee to the PIC32. This controls the servos. I also send an on or off PWM duty cycle to start or stop the drive motor based on the trained fist gesture. 
+For receiving data from the Myo, I use a ROS package called <a href="https://github.com/roboTJ101/ros_myo" target="_blank">ros_myo</a>. From this package, the raw data from the Myo is published under three topics: myo_imu, myo_emg, and myo_gest. The myo_emg topic publishes a custom message containing the signal readings from the Myo's eight EMG sensors. For use with the MYHOG, I subscribed to the myo_imu and myo_gest topics which publish standard IMU and standard UInt8 messages respectively. In my subscription <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/myhog_ws/src/myhog_control/src" target="_blank">node</a>, I convert the IMU quaternion to Euler angles and then use the to determine an appropriate PWM duty cycle to send serially through the Xbee to the PIC32. This controls the servos. I also send an on or off PWM duty cycle to start or stop the drive motor based on the trained fist gesture. 
 
 For ease of use when testing and potentially playing with the MYHOG, a node that subscribes to a joystick will be written. 
 
