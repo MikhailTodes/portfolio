@@ -21,7 +21,7 @@ The frame is made out of 1/8 inch thick plywood. I used a laser cutter to carve 
     <img class="two" style='text-align: center; height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_frame2.png?raw=true">
 </div>
 
-The base of the frame and the upright housing the servos, are each 3 pieces of  plywood stuck together with wood-glue and screws. The two supporting pieces (one upright with “MYHOG” carved on it and the joining top piece) are both two pieces of plywood thick. I created the design for these pieces using the free online software, “OnShape”. The Solid Works files for each part can be found <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/Model" target="_blank">here</a>. The different pieces of the frame are designed to fit in firmly with each other. 
+The base of the frame and the upright housing the servos, are each 3 pieces of  plywood stuck together with wood-glue and screws. The two supporting pieces (one upright with “MYHOG” carved on it and the joining top piece) are both two pieces of plywood thick. I created the design for these pieces using the free online software, “OnShape”. The STL files for each part can be found <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/Model" target="_blank">here</a>. The different pieces of the frame are designed to fit in firmly with each other. 
 
 At the other end of the frame, I originally attached two caster wheels for support. Since the first iteration I have changed to using ball bearing wheels instead. This allows for better omni-directionality. I have also spread the wheels a bit further out from the centre to help support the frame a bit more. 
 
@@ -38,7 +38,7 @@ The gimbal attaches right between the two poles of the upright piece that houses
     <img class="two" style='text-align: center; height: 42%; width: 42%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/gimbal_design2.png?raw=true">
 </div>
 
-The gimbal is made up of two 3D printed pieces. (Solid Works files found <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/Model" target="_blank">here</a>). The inner piece has the motor attached and rotates about a longitudinal axis (roll) in the MYHOG's forward direction. This allows for forward or backwards drive. It is driven by the bottom servo. The outer piece rotates about a lateral axis (pitch) in the MYHOG's forward direction, allowing the MYHOG to steer left or right. It is driven by the top servo. At the moment the servos are connected to the gimbal pieces using small wooden rods. Each rod has a hole in both ends to enable a threaded wire to attach and still allow enough flexibility for rotation. With testing I have found this allows too much play and thus instability. Different materials will be tried in further models. 
+The gimbal is made up of two 3D printed pieces. (STL files found <a href="https://github.com/MikhailTodes/myhog_racer/tree/master/Model" target="_blank">here</a>). The inner piece has the motor attached and rotates about a longitudinal axis (roll) in the MYHOG's forward direction. This allows for forward or backwards drive. It is driven by the bottom servo. The outer piece rotates about a lateral axis (pitch) in the MYHOG's forward direction, allowing the MYHOG to steer left or right. It is driven by the top servo. At the moment the servos are connected to the gimbal pieces using small wooden rods. Each rod has a hole in both ends to enable a threaded wire to attach and still allow enough flexibility for rotation. With testing I have found this allows too much play and thus instability. Different materials will be tried in further models. 
 
 ### Motor Connection and Hemisphere
 The hemisphere is a racquet-ball ball with the top cut off. I 3D printed the piece below to attach to the motor on the one end and fit inside the racquet-ball ball on the other. 
@@ -97,3 +97,9 @@ The code used to program the PIC32 can be found <a href="https://github.com/Mikh
   <iframe class="one" width="420" height="315" src="https://www.youtube.com/embed/PbSFe_kLPTM" frameborder="0" allowfullscreen></iframe>
   <iframe class="two" width="420" height="315" src="https://www.youtube.com/embed/A2-2wv5Wn4o" frameborder="0" allowfullscreen></iframe>  
 </div>
+
+# Future Work
+ * Redesigning the frame slightly to help improve the stability of the MYHOG.
+ * The design and printing of some dedicated circuitry for the MYHOG's electronics as opposed to leaving everything on a breadboard.
+ * Adding some feedback using an IMU on board to help stabilize direction control. 
+ * Adding machine trained gestures on the Myo that correspond to different preprogrammed actions with the MYHOG. For example, putting up only one finger makes the MYHOG go into clockwise circle mode. 
