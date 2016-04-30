@@ -8,7 +8,7 @@ image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/con
 ## Contact me directly:
 
 * Phone: (224) 600-2384
-* Email: mikhailtodes2016@u.northwestern.edu
+* Email: mikhail@u.northwestern.edu
 
 ## Address: 
 
