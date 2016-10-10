@@ -16,9 +16,25 @@ Enrolled Feb 2011 – Graduated Dec 2014.
 **Master of Science in Robotics** - **Northwestern University**  
 Enrolled Sep 2015 - (Expected) Graduated Dec 2016
 
+# Experience
+
+**Robotic Manipulation Software Development** - *(May 2016 - Sep 2016)*  
+I developed the software to accompany Professor Kevin Lynch’s text book entitled, _Introduction to Robotics: Mechanics, Planning, and Control_. This consisted of a library of functions designed to aid robotic manipulation. I wrote a version of the library in Python, MATLAB, Mathematica, and C. This library can be found <a href="https://github.com/NxRLab/ModernRobotics" target="_blank">here</a>.
+
+**Internship** - *(Nov 2013 - Jan 2014)*  
+In November 2013, I did a two month internship in the Bioelectronics and Neuroscience (BENS) Research Program at the University of Western Sydney. The projects that I was involved in were:
+
+* Design and construction of a robotic system for stimulation and feedback control of the human peripheral sensory system (tactile sensing)
+* Design and construction of hardware for a ping-pong playing robot
+
+While I was there I also attended a seminar on the use of an Arduino for network communications.
+
+**Practical Training** - *(Nov 2011)*  
+During my Bachelors degree, I attended a practical training course at the Cape Peninsula University of Technology. There I learnt a few practical engineering trades including: arc welding; lathe machining; design automation with pneumatics; applied metrology; CNC machining; heat tempering and hardening; and Computer Aided Drafting.
+
 # What I am up to at the moment
 
-I am currently still finishing my Masters degree. The courses I have taken or am currently taking include:
+I am currently still finishing my Masters degree. The courses I have taken include:
 
 * Embedded Systems
 * Robotic Manipulation
@@ -30,32 +46,27 @@ I am currently still finishing my Masters degree. The courses I have taken or am
 * Advanced Mechatronics
 * Digital Control
 
-The project I am working on at the moment is building a robotic rat's head. More about this can be seen on this <a href="http://mikhailtodes.github.io/portfolio/projects/robotic_rat/" target="_blank">here</a>
+The project I am currently working on is designing and building a robotic rat's head. More about this can be seen <a href="http://mikhailtodes.github.io/portfolio/projects/robotic_rat/" target="_blank">here</a>
 
-# Education and Training
+# Programming Languages And Software Experience
 
-In January 2011, directly after matriculating from high school, I started studying at the University of Cape Town. I enrolled to do a BSc (Eng) in Mechatronics Engineering and I graduated in December 2014. During my studies, I attended a practical training course at the Cape Peninsula University of Technology. There I learnt a few practical engineering trades including: to arc weld; to use a lathe machine; design automation with pneumatics; applied metrology; CNC machining; heat tempering and hardening; and Computer Aided Drafting.
+* C, C++, Java, Python, MATLAB, Mathematica. 
+* Linux and Windows Operating systems.  
+* Simulink, OpenCV, Solid Works, Eagle, LabView, Visual Studio, Arduino IDE.  
+* ROS (Robot Operating System).  
+* Rethink Robotics’ Baxter Robot.  
 
-In November 2013, I did a two month internship in the Bioelectronics and Neuroscience (BENS) Research Program at the University of Western Sydney. The projects that I was involved in were:
+# Additional Skills
 
-* Design and construction of a robotic system for stimulation and feedback control of the human peripheral sensory system (tactile sensing)
-* Design and construction of hardware for a ping-pong playing robot
+## Practical Engineering
 
-While I was there I also attended a seminar on the use of an Arduino for network communications.
+* PCB Design
+* Soldering
+* 3D Printing
+* Laser Cutting
+* CAD Design
 
-Experience with Windows and Linux operating systems as well as ROS (Robot Operating System).
-
-
-# Programming Languages 
-
-* C
-* C++
-* Java
-* Python
-* MATLAB
-* Mathematica
-
-# Languages
+## Languages
 
 * English (Native language)
 * Afrikaans
