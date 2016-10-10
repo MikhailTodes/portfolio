@@ -48,26 +48,30 @@ I am currently still finishing my Masters degree. The courses I have taken inclu
 
 The project I am currently working on is designing and building a robotic rat's head. More about this can be seen <a href="http://mikhailtodes.github.io/portfolio/projects/robotic_rat/" target="_blank">here</a>
 
-# Programming Languages And Software Experience
+# Additional Skills and Experience
 
-* C, C++, Java, Python, MATLAB, Mathematica. 
+## Programming Languages  
+* C
+* C++
+* Java
+* Python
+* MATLAB
+* Mathematica
+
+## Software Experience   
 * Linux and Windows Operating systems.  
 * Simulink, OpenCV, Solid Works, Eagle, LabView, Visual Studio, Arduino IDE.  
-* ROS (Robot Operating System).  
-* Rethink Robotics’ Baxter Robot.  
+* ROS (Robot Operating System).    
 
-# Additional Skills
-
-## Practical Engineering
-
+## Practical Engineering  
 * PCB Design
 * Soldering
 * 3D Printing
 * Laser Cutting
 * CAD Design
+* Rethink Robotics’ Baxter Robot
 
-## Languages
-
+## Languages  
 * English (Native language)
 * Afrikaans
 * Hebrew
