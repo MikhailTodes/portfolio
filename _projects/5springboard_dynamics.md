@@ -11,7 +11,7 @@ The purpose of this project was to mathematically model and simulate the basic d
 ## Code
 This was modeled using Wolfram's Mathematica software. The code can be found <a href="/portfolio/public/pdfs/springboard_code.pdf" target="_blank">here</a>.
 
-### Explanation of the code  
+## Explanation of the code  
 The first section of the code contains the transformations to describe the different coordinate frames used in the modeling. 
 
 Some functions are defined for later use. There are also some parameters set that can be adjusted for different results, eg. spring coefficient, gravitational acceleration, mass of the diver, mass of the board, length of the board, etc.
