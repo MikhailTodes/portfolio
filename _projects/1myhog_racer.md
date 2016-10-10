@@ -3,7 +3,7 @@ layout: project
 title: MYHOG Racer
 date: Feb, 2016
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/MYHOG/myhog_mak1.jpg?raw=true
-permalink: "1myhog_racer.md"
+permalink: "1myhog_racer.html"
 ---
 
 # Abstract
