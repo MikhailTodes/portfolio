@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Robotic Manipulation Library*
+title: Robotic Manipulation Library
 date: November, 2015
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/UR5.png?raw=true
 ---
