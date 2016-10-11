@@ -6,8 +6,7 @@ image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/UR5
 ---
 
 ## Overview
-I developed a library of functions to accompany Professor Kevin Lynch’s text book entitled, *Introduction to Robotics: Mechanics, Planning, and Control*. 
-aid robotic manipulation. This software is now used as a teaching tool in his class.
+I developed a library of functions to accompany Professor Kevin Lynch’s text book entitled, *Introduction to Robotics: Mechanics, Planning, and Control*. This software is now used as a teaching tool in his class.
 
 ## Code
 The functions are available in:
