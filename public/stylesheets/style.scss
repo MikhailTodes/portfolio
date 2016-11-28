@@ -79,11 +79,11 @@ html {
 				height: auto;
 
 				div.container {
-					width: calc((100% - 60px - 40px) / 4);
+					width: calc((100% - 60px - 40px) / 2);
 					display: inline-block;
 					margin-bottom: 20px;
 					border: 2px solid #bbb;
-					text-align: center;
+					text-align: right;
 					position: relative;
 
 					div.aspect-ratio-keeper {
@@ -260,7 +260,7 @@ html {
 				list-style: none;
 
 				li {
-					float: left;
+					float: center;
 					width: calc(100% / 3);
 					text-align: center;
 				}
