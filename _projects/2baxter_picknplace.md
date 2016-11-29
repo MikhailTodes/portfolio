@@ -3,6 +3,7 @@ layout: project
 title: Baxter Pick and Place
 date: October, 2015
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/baxter_final_pose.png?raw=true
+keywords: Keywords - ROS, Computer Vision, Inverse Kinematics
 ---
 
 ## Overview

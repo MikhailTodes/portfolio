@@ -3,8 +3,8 @@ layout: project
 title: Springboard Dynamics
 date: November, 2015
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/springboard_setup.png?raw=true
+keywords: Keywords - Euler-Lagrange, Dynamic Modelling, Simulation, Mathematica 
 ---
-
 ## Overview
 The purpose of this project was to mathematically model and simulate the basic dynamics of an elastic impact between a diver and a spring board. The simulation was done in Mathematica using Euler-Lagrange principles.
 

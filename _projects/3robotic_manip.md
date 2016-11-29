@@ -3,6 +3,7 @@ layout: project
 title: Robotic Manipulation Library
 date: May, 2016
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/UR5.png?raw=true
+keywords: Keywords - Kinematics, Dynamics, Trajectory Planning, Software Development
 ---
 
 ## Overview
