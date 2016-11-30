@@ -12,6 +12,10 @@ The aim of this project was to build an intelligent motor driver. The system can
 
 # Video
 
+<div class="container"  align="middle">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/LpN0bZk4wZE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 # Hardware
 
 * Brushed DC Motor with a plastic bar attached to the shaft as an inertial load.
@@ -36,3 +40,8 @@ There are two different sections to the software side of this project:
 
 All the software can be found <a href="https://github.com/MikhailTodes/dc_motor_control" target="_blank">here</a>.
 
+The MATLAB user interface was presented as seen below:
+
+<div class="container"  align="middle">
+    <img class="one" style='text-align: center; height: 80%; width: 80%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/user_interface.png?raw=true" align="middle">
+</div>
