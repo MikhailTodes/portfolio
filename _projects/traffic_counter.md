@@ -30,7 +30,7 @@ and was implemented using C++. The second used background subtraction and was wr
 Counting the vehicles presented the problem of having to uniquely identify vehicles and keep track of them between frames. I decided instead to use my own method that would be a little less computationally intense. I did this by adding the vertical position coordinates of all identified vehicles within a certain band as can be seen in the figure below:
 
 <div class="container"  align="middle">
-    <img class="one" style='text-align: center; height: 80%; width: 80%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/count_algo_band.png?raw=true" align="middle">
+    <img class="one" style='text-align: center; height: 40%; width: 40%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/count_algo_band.png?raw=true" align="middle">
 </div>
 
 
