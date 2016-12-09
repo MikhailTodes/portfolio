@@ -4,6 +4,7 @@ title: DC Motor Control
 date: March, 2016
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/dc_motor_circ.jpg?raw=true
 keywords: Keywords - PID Control, DC Motor, Digital/Analog Electronics, Communication Protocols
+permalink: "dc_motor_control"
 ---
 
 # Overview

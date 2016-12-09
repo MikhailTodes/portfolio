@@ -4,6 +4,7 @@ title: Computer Vision Algorithms
 date: February, 2016
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/Lena_edge.bmp?raw=true
 keywords: Keywords - Computer Vision, C++, Image Processing Algorithms
+permalink: "comp_vision"
 ---
 
 # Overview

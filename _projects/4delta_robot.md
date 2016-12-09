@@ -4,11 +4,12 @@ title: Drawing Delta Robot
 date: August, 2013
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/deltarobot.png?raw=true
 keywords: Keywords - Inverse Kinematics, Digital Electronics, Robotics
+permalink: "delta_drawing"
 ---
-## Overview
+# Overview
 During my undergraduate, we were tasked with building a delta robot that could draw a circle, triangle, or square depending on the users preference. 
 
-## Specifications
+# Specifications
 The following were the specifications we had to follow:
 
 ### Interface characteristics
@@ -25,5 +26,5 @@ The following were the specifications we had to follow:
 specified dimensions.
  *  The robot capabilities may be demonstrated in any creative way for bonus marks.
 
-## Video
+# Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vyQ6BPVSoMs" frameborder="0" allowfullscreen></iframe>

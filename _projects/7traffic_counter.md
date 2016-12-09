@@ -4,6 +4,7 @@ title: Traffic Counter
 date: February, 2016
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/traffic_counter.png?raw=true
 keywords: Keywords - Computer Vision, C++, Python, Tracking
+permalink: "traffic_counter"
 ---
 
 # Overview

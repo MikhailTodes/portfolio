@@ -4,12 +4,13 @@ title: Robotic Manipulation Library
 date: May, 2016
 image: https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/UR5.png?raw=true
 keywords: Keywords - Kinematics, Dynamics, Trajectory Planning, Software Development
+permalink: "robotic_library"
 ---
 
-## Overview
+# Overview
 I developed a library of functions to accompany Professor Kevin Lynch’s text book entitled, *Introduction to Robotics: Mechanics, Planning, and Control*. This software is now used as a teaching tool in his class.
 
-## Code
+# Code
 The functions are available in:
 
 * Python  
@@ -23,7 +24,7 @@ Each function has a commented section above it explaining the inputs required fo
 
 The primary purpose of the software is to be easy to read and educational, reinforcing the concepts in the book.
 
-## Videos
+# Videos
 The videos below were made using ROS and Rviz with a URDF for Universal Robotics' UR5 robotic arm. They animate two of the trajectory calculation functions developed in the library. 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/ycaGRk_0AE8" frameborder="0" allowfullscreen></iframe>
