@@ -14,8 +14,9 @@ The two main goals of the Batmobile project were:
 * Look stylish while doing so.
 
 All the CAD files and software for this project can be found <a href="https://github.com/MikhailTodes/Mikhail_Todes_ME433" target="_blank">here</a>.
+
 <div class="container"  align="middle">
-    <img class="one" style='text-align: center; height: 70%; width: 70%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/Batmobile/first_pic.jpg?raw=true">
+    <img class="one" style='text-align: center; height: 70%; width: 70%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/Batmobile/drive1.gif?raw=true">
 </div>
 
 # Hardware
@@ -73,3 +74,7 @@ I designed the android app to have the following graphic interface:
 The grey block at the top shows the image coming from the camera. The first 3 sliders are there to control the levels of Red, Green, and Blue that are filtered from the image. This way a specific coloured line can be tracked and the system can be easily adjusted to follow a different line if necessary. The 4th slider controls the height in pixel value of which row on the image is being searched to find the line. 
 
 The BATMAN button at the bottom is there to start playing the Batman theme song when it is pressed.
+
+<div class="container"  align="middle">
+    <img class="one" style='text-align: center; height: 70%; width: 70%; object-fit: contain' src="https://github.com/MikhailTodes/portfolio/blob/gh-pages/public/images/Batmobile/first_pic.jpg?raw=true">
+</div>
